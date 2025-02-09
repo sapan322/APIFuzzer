@@ -23,7 +23,11 @@ Replace `"https://jsonplaceholder.typicode.com"` with your own API URL.
 **APIFuzzer is provided "as is", without any warranty, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.**  
 The author(s) **are not responsible** for any damage, security vulnerabilities, or legal consequences resulting from the use of this tool. **Use it at your own risk.**
 
+
 ## License
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
 ---
+Special thanks to: 
+
+[Ryan John](https://www.youtube.com/@ryan_phdsec)
